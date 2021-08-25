@@ -11,4 +11,6 @@ People around like to call me a “geek” which I don’t like being called bec
 
 My public GPG key:  https://keybase.io/voldedore#show-public 
 
+or https://github.com/voldedore.gpg
+
 [1]: https://www.linkedin.com/in/vinh-vo/
